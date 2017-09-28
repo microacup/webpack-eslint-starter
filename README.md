@@ -18,7 +18,8 @@ A simple webpack tool. Used to quickly start a static web demo with code specifi
 ## run
 
 - dev：npm run dev
-- build&run：npm run build && npm start
+- build：npm run build
+- run: npm start
 
 ## ref
 

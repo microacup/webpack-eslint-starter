@@ -19,11 +19,14 @@
     "serve": "^6.1.0"
   },
   "scripts": {
-    "start": "serve .",
+    "start": "webpack && serve .",
     "dev": "node server.js",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "microacup",
+  "author": {
+    "name": "microacup",
+    "email": "microacup@meiqiu.me"
+  },
   "license": "MIT"
 }
